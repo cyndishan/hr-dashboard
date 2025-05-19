@@ -1,4 +1,4 @@
-# :bar_chart: Employee Training & Performance Assessment
+# :bar_chart: Employee Training & Performance Dashboard
 This project analyzes employee performance and training data using Excel functions and tools—including data cleaning, lookup formulas, conditional logic, and pivot tables—to generate actionable insights and organized visual summaries.
 ## :file_folder: Dataset
 The Excel file includes the following sheets:
