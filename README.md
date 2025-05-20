@@ -42,7 +42,7 @@ The Content Creator job role offers the highest average salary across all roles.
 
 - 🛠 Training Participation
 
-Technical tools trainings have the largest number of staff participants, indicating a high demand or focus on upskilling in technical areas.
+Technical tools and project management trainings have the largest number of staff participants, indicating a high demand or focus on upskilling in technical and management areas.
 
 - 📈 High Performer Distribution
 
