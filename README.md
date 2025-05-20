@@ -33,7 +33,7 @@ The Excel file includes the following sheets:
 ## Screenshot of Dashboard
 ![image](https://github.com/user-attachments/assets/880abf8f-f332-4417-aa63-54f86d7809f4)
 
-## 📖: Insights:
+## 📖 Insights:
 - 💼 Salary Insights
 
 The Marketing Department has the highest average salary among all departments.
