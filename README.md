@@ -31,7 +31,7 @@ The Excel file includes the following sheets:
 - Summarize key insights with pivot tools and visual charts
 
 ## Screenshot of Dashboard
-![image](https://github.com/user-attachments/assets/5971805d-0380-4a6f-a4d4-3659c58a4bab)
+![image](https://github.com/user-attachments/assets/880abf8f-f332-4417-aa63-54f86d7809f4)
 
 ## 📖: Insights:
 - 💼 Salary Insights
