@@ -60,3 +60,9 @@ Marketing follows with 9 employees needing improvement.
 
 These two departments may require targeted support or performance improvement plans.
 
+## 🧩 Actionable suggestions:
+- Conduct Salary Benchmarking: Review compensation across departments to ensure equity and competitiveness, especially for roles with lower average salaries but high performance or critical functions.
+- Expand Popular Trainings: Increase the frequency and depth of technical and project management trainings, including advanced modules for upskilling.
+- Mentorship Programs: Pair high performers with employees in HR and Marketing to foster knowledge transfer and raise standards across departments.
+- Root Cause Analysis: Investigate whether low performance is due to poor management, unrealistic KPIs, lack of training, or other barriers.
+
